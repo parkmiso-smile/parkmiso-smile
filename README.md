@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**parkmiso-smile/parkmiso-smile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Miso Park (박미소)
 
-Here are some ideas to get you started:
+I am a Computer Engineering student with a strong interest in cybersecurity, especially in digital forensics and web vulnerability analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+- Kyung Hee University, Computer Engineering
+- Interested in Digital Forensics and Web Security
+- Completed WhiteHat Security Program
+
+---
+
+## Experience
+- Digital Forensics (Messenger App Analysis)
+- Web Vulnerability Analysis (SQL Injection, etc.)
+- WhiteHat Program Completion
+
+---
+
+## Contact
+- Email: misowendy04@naver.com
+- Tel: 010-2873-7476
