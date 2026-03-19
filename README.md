@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hi, I'm Miso Park (박미소)
+# MISO's GIT ✌(-‿-)✌
 
 I am a Computer Engineering student with a strong interest in cybersecurity, especially in digital forensics and web vulnerability analysis.
 
