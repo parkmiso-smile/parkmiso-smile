@@ -17,7 +17,7 @@ I am a Computer Engineering student with a strong interest in cybersecurity, esp
 - WhiteHat Program Completion
 
 ---
-## 🧰 Tech Stack
+##  Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
