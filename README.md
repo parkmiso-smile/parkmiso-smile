@@ -27,15 +27,7 @@ I am a Computer Engineering student with a strong interest in cybersecurity, esp
 ![SQL](https://img.shields.io/badge/SQL_Injection-4479A1?style=flat-square)
 
 
-## 🐾 My Coding Animals
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=obgy25&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/parkmiso-smile"
-  width="600"
-  height="300"
-/>
-</a>
 
 ## Contact
 - Email: misowendy04@naver.com
